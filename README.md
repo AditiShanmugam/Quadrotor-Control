@@ -1,1 +1,1 @@
-# Aerial-Robotics
+# MATLAB Code for Simulation of Quadrotor Control. 
